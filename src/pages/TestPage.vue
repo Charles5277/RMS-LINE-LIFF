@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref } from 'vue';
-import { Todo, Meta } from 'src/components/models';
+import { Todo, Meta } from 'src/components/demo';
 
 defineOptions({
   name: 'IndexPage',
