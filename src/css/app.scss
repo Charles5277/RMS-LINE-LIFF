@@ -1,1 +1,7 @@
 // app global css in SCSS form
+@import 'font';
+
+.body--light,
+.bg--light {
+  background-color: #f4f5f7;
+}
