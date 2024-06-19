@@ -46,7 +46,7 @@ export default configure((/* ctx */) => {
 
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
 
-      // publicPath: '/',
+      publicPath: '/RMS-LINE-LIFF/',
       // analyze: true,
       // env: {},
       // rawDefine: {}
