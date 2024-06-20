@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { ref } from 'vue';
+import FooterTab from 'src/components/FooterTab.vue';
 
 const text = ref('');
 </script>
@@ -40,6 +41,8 @@ const text = ref('');
     <q-page-container>
       <router-view />
     </q-page-container>
+
+    <FooterTab />
   </q-layout>
 </template>
 
